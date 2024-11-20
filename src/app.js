@@ -29,4 +29,4 @@ function elige(array) {
 final =
   elige(who) + " " + elige(action) + " " + elige(what) + " " + elige(when);
 
-document.getElementById("excusagenerada").innerText = final;
+document.getElementById("excusaGenerada").innerText = final;
